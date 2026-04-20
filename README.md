@@ -13,7 +13,7 @@ Analyser les données des 891 passagers du Titanic pour comprendre les facteurs 
 - **Matplotlib** — visualisation
 - **Scikit-learn** — Machine Learning classique
 - **XGBoost** — Machine Learning avancé
-
+- **TensorFlow / Keras** - Deep Learning
 ## 📊 Analyses réalisées
 
 - Exploration et nettoyage des données
@@ -22,13 +22,14 @@ Analyser les données des 891 passagers du Titanic pour comprendre les facteurs 
 - Analyse par classe : 1ère classe 63% vs 3ème classe 24%
 - Visualisations graphiques (barres, courbes, camemberts)
 
-## 🤖 Comparaison de 4 modèles prédictifs
+## 🤖 Comparaison de 5 modèles prédictifs
 
 | Modèle | Précision |
 |--------|-----------|
 | Régression logistique | 75,52% |
 | Arbre de décision | 75,52% |
 | Random Forest | 76,22% |
+| Réseau de neuronnes (Deep Learning) | 76,22% |
 | **XGBoost** 🏆 | **76,92%** |
 
 ## 🔍 Analyse d'importance des variables
